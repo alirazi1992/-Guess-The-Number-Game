@@ -27,7 +27,7 @@ Difficulty levels, hints, and input validation make the game more fun and robust
 
 | Game Overview |
 |---------------|
-| ![Screenshot](../Screenshot 2025-09-06 115512.png) |
+| ![Screenshot](./screenshots/Screenshot-2025-09-06-115512.png) |
 
 ---
 
