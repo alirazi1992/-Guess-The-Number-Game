@@ -29,3 +29,18 @@ Difficulty levels, hints, and input validation make the game more fun and robust
 |---------------|
 | ![Screenshot](../Screenshot-2025-09-06-115512.png) |
 
+---
+
+## 📚 Learning Goals
+
+This project covers:
+
+- Random number generation (Random.Next)
+
+- Loops (while)
+
+- Conditionals (if, switch)
+
+- Input validation with int.TryParse
+
+- Methods for cleaner code
