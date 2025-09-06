@@ -25,15 +25,6 @@ Difficulty levels, hints, and input validation make the game more fun and robust
 
 📸 Screenshots
 
-👉 Add your own screenshot(s) here to show the game in action.
-
-Example placeholder:
-
-
-➡️ To add your screenshot:
-
-Create a folder named screenshots in your project root.
-
-Save your screenshot inside it (e.g., gameplay.png).
-
-Update the image path above if needed.
+| Game Overview | 
+|--------------|
+| ![ScreenShot](./Screenshot/Screenshot 2025-09-06 115512.png) | 
